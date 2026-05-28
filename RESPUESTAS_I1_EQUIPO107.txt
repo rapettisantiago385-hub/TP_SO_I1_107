@@ -6,3 +6,4 @@ Santiago Rapetti (ALFA)
 4b) Si, los demas integrantes pueden ver lo que el ALFA sube.
 4c) Si, los demas integrantes ven lo que BETA sube 
 4d) Mediante una llamda de discord 
+4e) Mediante el proyects y los commit
