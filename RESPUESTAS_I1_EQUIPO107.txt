@@ -1,0 +1,6 @@
+INTEGRANTES:
+Santino Aicardi (BETA)
+Eric Quispe (GAMMA)
+Santiago Rapetti (ALFA)
+4a) Si, el ALFA ve los datos que cargaron BETA y GAMMA.
+4b) Si, los demas integrantes pueden ver lo que el ALFA sube.
