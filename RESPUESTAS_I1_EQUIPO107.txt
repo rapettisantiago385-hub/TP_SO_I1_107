@@ -4,3 +4,5 @@ Eric Quispe (GAMMA)
 Santiago Rapetti (ALFA)
 4a) Si, el ALFA ve los datos que cargaron BETA y GAMMA.
 4b) Si, los demas integrantes pueden ver lo que el ALFA sube.
+4c) Si, los demas integrantes ven lo que BETA sube 
+4d) Mediante una llamda de discord 
